@@ -1,0 +1,15 @@
+{
+    "name": "Artifactory for IBM UrbanCode Build",
+    "docsURL": "",
+    "source_project": "",
+    "description": "The Artifactory automation plug-in includes steps to complete the following tasks:\n\n- Download artifacts from an Artifactory repository",
+    "specification": {
+        "categories": [],
+        "type": ""
+    },
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "publish": true
+}
