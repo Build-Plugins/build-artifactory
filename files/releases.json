@@ -1,0 +1,101 @@
+[
+    {
+        "version": "11",
+        "semver": "11.930715",
+        "date": "2017.08.24 11:09",
+        "file": "Artifactory-11.930715.zip",
+        "notes": [
+            "Fix issue with artifact download links when preserving artifact file paths and using Artifactory Pro"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000001100930715"
+    },
+    {
+        "version": "10",
+        "semver": "10.929812",
+        "date": "2017.08.17 10:50",
+        "file": "Artifactory-10.929812.zip",
+        "notes": [
+            "Fix issue in Artifacts tab of UCB when uploading artifacts using the Artifactory plugin"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000001000929812"
+    },
+    {
+        "version": "9",
+        "semver": "9.922826",
+        "date": "2017.06.29 11:18",
+        "file": "Artifactory-9.922826.zip",
+        "notes": [
+            "Fix incompatibility issue with Groovy 2.4.10"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000900922826"
+    },
+    {
+        "version": "8",
+        "semver": "8.920677",
+        "date": "2017.06.12 14:46",
+        "file": "Artifactory-8.920677.zip",
+        "notes": [
+            "Fix windows path normalization issues in upload step"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000800920677"
+    },
+    {
+        "version": "7",
+        "semver": "7.920428",
+        "date": "2017.06.09 17:32",
+        "file": "Artifactory-7.920428.zip",
+        "notes": [
+            "Add new step for uploading build information"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000700920428"
+    },
+    {
+        "version": "5",
+        "semver": "5.915511",
+        "date": "2017.05.23 09:19",
+        "file": "Artifactory-5.915511.zip",
+        "notes": [
+            "Add new property to be able to set properties for artifacts when uploading"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000500915511"
+    },
+    {
+        "version": "4",
+        "semver": "4.912937",
+        "date": "2017.05.12 17:10",
+        "file": "Artifactory-4.912937.zip",
+        "notes": [
+            "Fix MissingPropertyException when using Password Script in upload/download steps"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000400912937"
+    },
+    {
+        "version": "3",
+        "semver": "3.904735",
+        "date": "2017.04.04 16:09",
+        "file": "Artifactory-3.904735.zip",
+        "notes": [
+            "Refactor code"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000300904735"
+    },
+    {
+        "version": "1",
+        "semver": "1.838500",
+        "date": "2016.10.14 17:05",
+        "file": "Artifactory-1.838500.zip",
+        "notes": [
+            "Install this plugin to access to the steps listed below. These steps can be used when downloading from or uploading to Artifactory repository. This requires UrbanCode Build 6.1.2.2"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000100838500"
+    }
+]
